@@ -1,0 +1,15 @@
+#navbar {
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0e131d;
+    color: #FF0000;
+}
+
+#header {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: system-ui;
+}
